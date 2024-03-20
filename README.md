@@ -35,6 +35,8 @@ Imagine that you are developing a monitoring application for a smart vegetable g
 
 > [!WARNING]
 > Working on that 🤓✍ It will be on a different repository
+> [Interactive app repository](https://github.com/nevidomyyb/arduino-final-test)
+
 
 ### 6. Calculator with 4 basic operations
 
