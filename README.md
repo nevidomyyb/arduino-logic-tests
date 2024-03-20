@@ -35,3 +35,27 @@ Imagine that you are developing a monitoring application for a smart vegetable g
 
 > [!WARNING]
 > Working on that 🤓✍ It will be on a different repository
+
+### 6. Calculator with 4 basic operations
+
+Design a calculator that includes the four basic operations.
+
+[Python file](./teste-arduino-6.py)
+
+### 7. Letter counting
+
+Implement a program that receives a string (simulating a sensor input in text format) and counts the number of times a certain letter appears in that string.
+
+[Python file](./teste-arduino-7.py)
+
+### 8. Celsius to Fahrenheit and vice versa
+
+Implement a program that receives a string of characters (simulating input from a sensor in text format) and counts the number of times a given letter appears in that string.
+
+[Python file](./teste-arduino-8.py)
+
+### 9. Max, Min and Avarage Humity
+
+Develop an algorithm that stores a series of humidity readings in an array. Calculate and display the average of these readings, identify and display the highest and lowest readings.
+
+[Python file](./teste-arduino-9.py)
